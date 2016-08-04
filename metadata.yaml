@@ -1,0 +1,39 @@
+_repo: The-Story-of-an-African-Farm_1441
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schreiner, Olive
+    alias: Iron, Ralph
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '632'
+    url: http://www.gutenberg.org/2009/agents/632
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Schreiner
+description: Olive Schreiner's landmark novel, a South African classic, takes place
+  in the rural Karoo towards the end of the 19th century. The Story of an African
+  Farm evokes the bleakness and beauty of the arid landscape, which forms the backdrop
+  for the stories of Lyndall and Waldo, unlikely soul mates whose lives reflect their
+  frustrated quest for a better reality and their dreams of self-fulfillment. Originally
+  published in 1883 under the pseudonym Ralph Iron, the novel caused a sensation when
+  its author was revealed to be a woman. Victorian readers were intrigued by the novel's
+  forthright feminism a.
+gutenberg_bookshelf: Africa
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Feminists -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Africa, Southern -- Fiction'
+- GITenberg
+title: The Story of an African Farm
+url: http://www.gutenberg.org/ebooks/1441
