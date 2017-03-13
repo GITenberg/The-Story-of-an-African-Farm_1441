@@ -1,5 +1,8 @@
 _repo: The-Story-of-an-African-Farm_1441
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schreiner, Olive
@@ -17,6 +20,8 @@ description: Olive Schreiner's landmark novel, a South African classic, takes pl
   published in 1883 under the pseudonym Ralph Iron, the novel caused a sensation when
   its author was revealed to be a woman. Victorian readers were intrigued by the novel's
   forthright feminism a.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1441#The-Story-of-an-African-Farm
 gutenberg_bookshelf: Africa
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
